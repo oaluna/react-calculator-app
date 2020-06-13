@@ -7,6 +7,12 @@
   pointer-events: none;
 }
 
+.CalculatorDisplay {
+  width: 25%;
+  max-height: 400px;
+  background-color: #282c39;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
